@@ -1,2 +1,2 @@
 # **GitHub Tutorial**
-I am using the repository to learn **git** and **GitHub**
+I am using this repository to learn **git** and **GitHub**
